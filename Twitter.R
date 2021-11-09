@@ -6,11 +6,11 @@ install.packages("wordcloud")
 install.packages("ggplot2")
 install.packages("topicmodels")
 
-API_key <- "sWIO7sREQdNQPQzmF55C2BQV4"
-API_key_secret <- "KHCdvbCXnkd4BtW7m1ACusELPsYByiTwtmmTVdAiEsITnc0iCF"
-Token <- "AAAAAAAAAAAAAAAAAAAAAJWBUgEAAAAAViY9iq15v5RdWDBt8t1mdA0yYB4%3DyXi1UaaaPtGDjDkcstcJe7mJ70ewkCoqygAKMXFHzl157LIUYM"
-Access_token <- "351616109-CPuz5AGAX3Ewxsk0I365BqRhLXqUSSKwHPbeX95H"
-Access_token_secret <- "uXML5OBbMvNZrMY6M9QCorCm4wxXqTcW0cUW5wSClAOmG"
+API_key <- "HIDE"
+API_key_secret <- "HIDE"
+Token <- "HIDE"
+Access_token <- "HIDE"
+Access_token_secret <- "HIDE"
 
 library(twitteR)
 library(tm)
