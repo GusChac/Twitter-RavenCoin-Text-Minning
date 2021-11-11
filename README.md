@@ -9,3 +9,5 @@ En el siguiente proyecto se automatizo:
 Esta automatizacion nos permitira obtener informes instantantaneos del comportamiento en volumen y sentimiento (positivo/negativo) que se expreso a traves de los tweets de la ultima semana en intervalos de 2 horas.
 
 Estos informes son una herramienta fundamental para un proyecto posterior en el que evaluaremos la correlacion y el comportamiento de precios respecto a los tweets.
+
+Si alguno de mis proyectos es de tu interes y te gustaria contactar conmigo te invito a comunicarte por Linkedin: https://www.linkedin.com/in/gustavochac/
