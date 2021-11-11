@@ -1,3 +1,11 @@
 # Twitter-RavenCoin-Text-Minning
-El siguiente proyecto -en desarrollo- consiste en conectarse a la API de twitter y realizar un analisis de sentimiento sobre los comentarios de RavenCoin.
-La finalidad de esto es poder verificar el comportamiento del precio de la cripto moneda en distintos momentos donde vario el indicador de opinion (positiva/negativa)
+En el siguiente proyecto se automatizo: 
+
+1) La conexion a la API de Twitter. 
+2) La realizacion Text Minning de la ultima semana en tweets que contienen RavenCoin.
+3) Analisis de Sentimiento utilizando el metodo Syuzhet.
+4) Analisis de Sentimiento utilizando el metodo NRC (Modificado).
+
+Esta automatizacion nos permitira obtener informes instantantaneos del comportamiento en volumen y sentimiento (positivo/negativo) que se expreso a traves de los tweets de la ultima semana en intervalos de 2 horas.
+
+Estos informes son una herramienta fundamental para un proyecto posterior en el que evaluaremos la correlacion y el comportamiento de precios respecto a los tweets.
